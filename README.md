@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I' Grey Wang.
+I' Jinesi Yelizati.
 
-👨🏻‍💻  Enjoys computer programming since 13 years old. Has two years of full-time work experience focusing on software development. Now studying for a master degree in [Auckland University](https://www.auckland.ac.nz/).
+- Senior software engineer@Netease Games
+- Gopher
 
-[![Grey Wang's github stats](https://github-readme-stats.vercel.app/api?username=aguang-xyz)](https://github.com/aguang-xyz)
+[![Jinesi Yelizati's github stats](https://github-readme-stats.vercel.app/api?username=ylz-at)](https://github.com/ylz-at)
