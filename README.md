@@ -2,7 +2,8 @@
 
 I'm Jinesi Yelizati.
 
-- Senior software engineer@Netease Games
+- C/C++
+- Rendering, GLES/Vulkan
 
 <hr/>
 
